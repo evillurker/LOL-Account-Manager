@@ -9,7 +9,7 @@ Whether you're a seasoned player with a collection of summoner profiles or someo
 this platform allows you to check crucial statistics like OP.GG details, summoner ranks,
 and previous season ranks with ease.
 
-Easily swap between accounts export them, analyze stats, manage your passwords with full
+Easily swap between accounts, export them, analyze stats, manage your passwords with full
 AES-256 encryption options and provide full insight for all your needs.
 
 ![screenshot1](https://github.com/evillurker/LOL-Account-Manager/assets/23277098/a49da9ca-bee8-412e-a611-57b29b9b8f1e)
